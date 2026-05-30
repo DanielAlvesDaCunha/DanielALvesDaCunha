@@ -46,9 +46,8 @@ I am a **Computer Engineer** graduated from UVA and currently a **Master's Stude
 
 ## 📬 Contact
 
-[![LinkedIn](
-
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielalvesdacunha)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielalves.devmobile@gmail.com)
 
 
 <p align="center">
