@@ -1,10 +1,5 @@
 # Hi there, I'm Daniel Alves! 🇧🇷👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielAlvesCunha&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-
 ## 🚀 About Me
 
 I am a **Computer Engineer** graduated from UVA and currently a **Master's Student in Computer Science** at CEFET/RJ. My primary strength and absolute passion lie in developing high-performance mobile applications using the **Flutter & Dart** ecosystem.
@@ -53,7 +48,3 @@ I am a **Computer Engineer** graduated from UVA and currently a **Master's Stude
 <p align="center">
   <img src="./A7X-Nightmare.jpg" alt="Avenged Sevenfold - Nightmare Banner" width="100%" style="border-radius: 8px;" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielAlvesCunha&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
