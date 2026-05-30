@@ -3,6 +3,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielAlvesCunha&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
+\
+<div align="center">
+  <img src="./A7X-Nightmare.jpg" alt="Daniel Alves - Nightmare" width="180" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.5);" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielAlvesCunha&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
 ## 🚀 About Me
 
