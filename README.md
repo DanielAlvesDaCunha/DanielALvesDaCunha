@@ -13,10 +13,10 @@ I am a **Computer Engineer** graduated from UVA and currently a **Master's Stude
 
 ## 🔭 Featured Projects
 
+* **SYT** — Urban mobility app for the Portuguese market, developed end-to-end and currently in production. Unlike automatic-dispatch competitors like Uber and Bolt, SYT lets users manually choose their driver — the app's key market differentiator. Built with Flutter, JWT authentication, real-time geolocation, BLoC/Provider, WebSockets, Hive (offline cache), and Revolut payment integration.
 * **[SeeForMe](#)** — Computer vision accessibility app integrating Vision-Language Models (VLMs) for real-time image description for visually impaired users. *(Fiocruz — LCC)*
 * **[BioImune](https://imuno-icons.vercel.app)** — Interactive immunology illustration platform built with React, TypeScript, and Konva.js. *(Fiocruz — LCC)*
 * **[Steps App](#)** — Freelance dance streaming platform with Vimeo integration, Stripe payments, and real-time Firebase messaging.
-
 ---
 
 ## 🛠️ Technologies & Tools
@@ -52,8 +52,25 @@ I am a **Computer Engineer** graduated from UVA and currently a **Master's Stude
 
 ### 🏛️ Architecture, State & Frameworks
 - **State Management:** BLoC / Cubit, Provider, GetX, ValueNotifier
-- **Patterns & Practices:** SOLID, Clean Code, Clean Architecture
+- **Patterns & Practices:** SOLID, Clean Code, Clean Architecture (Data/Domain/Presentation), MVVM, Dependency Injection, Isolates, Mixins
+- **Integrations:** REST, GraphQL, WebSockets, Dio, Stripe, Revolut
 
+### 🤖 AI & Automation
+- Vision-Language Model (VLM) integration, LLM orchestration, Ollama, MCP (Model Context Protocol), Figma-integrated AI workflows
+
+---
+
+## 📊 GitHub Stats
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielalvesdacunha)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielalves.devmobile@gmail.com)
 
 <p align="center">
   <img src="./A7X-Nightmare.jpg" alt="Avenged Sevenfold - Nightmare Banner" width="100%" style="border-radius: 8px;" />
